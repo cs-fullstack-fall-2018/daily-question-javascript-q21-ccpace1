@@ -2,6 +2,8 @@
 
 ### Try/Catch/Throw
 
+KEY: Nice job man! A is correct!
+
 The experimentWithTries() function in the following HTML page throws and catches exceptions:
 
 ```
